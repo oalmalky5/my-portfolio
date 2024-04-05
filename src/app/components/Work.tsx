@@ -6,11 +6,21 @@ const projects = [
     id: 1,
     title: 'Mauzoun Responsive Website',
     imageUrl: '/project_pics/mauzoun.png',
-    technologies: ['React', 'Next', 'Javascript'],
+    technologies: ['React', 'Next', 'Javascript', 'SCSS'],
     description:
-      'A revamped fully responsive sign up form for the MLB All Star game, collecting player information and facilitating the purchase of tickets, merchandise and hotel accommodation.',
-    demoUrl: 'https://www.example.com',
-    codeUrl: 'https://www.example.com',
+      'The Mauzoun website is built with Next.js and React, offering a fully responsive, multi-page experience. It utilizes SCSS for advanced styling and incorporates seamless animations, all while supporting left-to-right locale functionality for a broad user base.',
+    demoUrl: 'https://mauzoun.com/story',
+    codeUrl: 'https://github.com/oalmalky5/mauzoun-website',
+  },
+  {
+    id: 2,
+    title: 'Portfolio Website',
+    imageUrl: '/project_pics/portfolio.png',
+    technologies: ['React', 'Next', 'TypeScript', 'Tailwind CSS'],
+    description:
+      "The portfolio website is developed with Next.js, React, and TypeScript, offering a responsive design that's elegantly styled with Tailwind CSS.",
+    demoUrl: 'https://my-portfolio-ten-tan.vercel.app/',
+    codeUrl: 'https://github.com/oalmalky5/my-portfolio',
   },
 ];
 

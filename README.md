@@ -21,7 +21,7 @@ To get a local copy up and running, follow these simple steps.
 ### Installation
 
 1. Clone the repo:
-   `git clone https://your-repository-link-here.git`
+   `git clone https://github.com/oalmalky5/my-portfolio.git`
 2. Install NPM packages:
    `npm install`
 
