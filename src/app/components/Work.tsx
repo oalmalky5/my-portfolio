@@ -22,6 +22,16 @@ const projects = [
     demoUrl: 'https://my-portfolio-ten-tan.vercel.app/',
     codeUrl: 'https://github.com/oalmalky5/my-portfolio',
   },
+  {
+    id: 3,
+    title: 'E-Commerce',
+    imageUrl: '/project_pics/stealthy.png',
+    technologies: ['Webflow'],
+    description:
+      'Stealthy Whiskers is a sleek and modern website I developed using Webflow, featuring a visually engaging design and intuitive navigation to showcase content effectively',
+    demoUrl: 'https://stealthy-whiskers.webflow.io/',
+    codeUrl: 'https://github.com/oalmalky5/my-portfolio',
+  },
 ];
 
 const Work: React.FC = () => {
