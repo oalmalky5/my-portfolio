@@ -27,7 +27,7 @@ const CaseStudyBox: React.FC<CaseStudyMeta> = ({
         <p className="text-gray-300 text-base mb-4">{description}</p>
         <div className="flex justify-end">
           <Link
-            href={`/case_studies/${slug}`}
+            href={`/case-studies/${slug}`}
             className="text-lightPaige hover:text-darkerPagie font-bold py-2 px-4 rounded"
           >
             Read More

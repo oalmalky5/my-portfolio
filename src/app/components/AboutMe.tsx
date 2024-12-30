@@ -20,11 +20,10 @@ export default function AboutMe() {
           </span>
         </h1>
         <p className="text-lg md:text-xl mt-4 text-gray-300">
-          Hello! My name is Omar AlMalky.
           <br />
           With 5 years of experience spanning{' '}
           <strong className="text-lightPaige">Client Management</strong>,{' '}
-          <strong className="text-lightPaige">Business Development</strong>,{' '}
+          <strong className="text-lightPaige">Customer Success</strong>,{' '}
           <strong className="text-lightPaige">Software Development</strong>, and{' '}
           <strong className="text-lightPaige">Data Analysis</strong>, I
           specialize in transforming complex challenges into seamless solutions.
@@ -37,7 +36,7 @@ export default function AboutMe() {
           deliver extraordinary results.
         </p>
         {/* Button to view work experience */}
-        <Link href="#work">
+        <Link href="#case-studies">
           <button className="flex items-center mt-6 bg-lighterPaige hover:bg-darkerPaige text-gray-900 font-bold py-2 px-4 rounded">
             Explore my work <FaArrowDown className="ml-2" aria-hidden="true" />
           </button>

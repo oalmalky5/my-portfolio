@@ -54,7 +54,7 @@ const Navbar: React.FC = () => {
             href="#work"
             className="hover:underline decoration-2 underline-offset-4"
           >
-            <span className="text-lightPaige">03.</span> Work
+            <span className="text-lightPaige">03.</span> Web Dev
           </Link>
           <Link
             href="#skills"
