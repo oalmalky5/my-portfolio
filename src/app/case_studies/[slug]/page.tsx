@@ -129,7 +129,7 @@ const CaseStudyPage = async ({ params }: CaseStudyPageProps) => {
           />
         </div>
 
-        {/* Back to Case Studies Button */}
+        {/* Back to Portfolio Button */}
         <div className="px-8 py-4">
           <a
             href="/"
