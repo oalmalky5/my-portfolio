@@ -42,7 +42,7 @@ const Work: React.FC = () => {
         id="work"
       >
         <h2 className="text-6xl font-semibold">
-          <span className="text-darkerPagie">02.</span> Work
+          <span className="text-darkerPagie">03.</span> Work
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {projects.map((project) => (

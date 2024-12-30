@@ -111,7 +111,7 @@ const Skills: React.FC = () => {
       id="skills"
     >
       <h2 className="text-6xl font-semibold">
-        <span className="text-darkerPagie">03.</span> Skills
+        <span className="text-darkerPagie">04.</span> Programming Skills
       </h2>
 
       {/* Filter buttons */}

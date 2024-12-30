@@ -1,3 +1,5 @@
+// app/components/Navbar.tsx
+
 'use client';
 
 import Image from 'next/image';
@@ -28,36 +30,43 @@ const Navbar: React.FC = () => {
             height={68}
             className="rounded-full"
           />
-          <span className="ml-2 font-semibold">Software Engineer</span>
+          <span className="ml-2 font-semibold">Omar AlMalky</span>
         </div>
 
         {/* Theme Toggle Button */}
+        {/* Add theme toggle button here if needed */}
 
         {/* Navigation Links and Get in Touch Button */}
         <div className="flex items-center space-x-12">
           <Link
             href="#about"
-            className="hover:underline decoration-2 underline-offset-4 hover:text-darkerPaige"
+            className="hover:underline decoration-2 underline-offset-4 hover:text-darkerPagie"
           >
             <span className="text-lightPaige">01.</span> About
+          </Link>
+          <Link
+            href="#case-studies"
+            className="hover:underline decoration-2 underline-offset-4"
+          >
+            <span className="text-lightPaige">02.</span> Case Studies
           </Link>
           <Link
             href="#work"
             className="hover:underline decoration-2 underline-offset-4"
           >
-            <span className="text-lightPaige">02.</span> Work
+            <span className="text-lightPaige">03.</span> Work
           </Link>
           <Link
             href="#skills"
             className="hover:underline decoration-2 underline-offset-4"
           >
-            <span className="text-lightPaige">03.</span> Skills
+            <span className="text-lightPaige">04.</span> Skills
           </Link>
           <Link
-            href="#experince"
+            href="#experience"
             className="hover:underline decoration-2 underline-offset-4"
           >
-            <span className="text-lightPaige">04.</span> Experience
+            <span className="text-lightPaige">05.</span> Experience
           </Link>
         </div>
       </nav>
