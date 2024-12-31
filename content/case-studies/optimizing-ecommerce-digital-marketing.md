@@ -227,3 +227,5 @@ Adopting a continuous cycle of **analyzing data**, **implementing targeted campa
    - Compare internal CTR, average order values, or seasonal performance against industry benchmarks to pinpoint areas for improvement.
 
 By merging strategic marketing practices with robust analytics, Saudi e-commerce enterprises can adapt to an evolving online marketplace—driving sustainable growth and long-term profitability.
+
+You can view and interact with the Python for analysis and charts [here](https://colab.research.google.com/drive/1g_-WIZQIP-93nsCIzAPH1ewlcbJbK3yN).
